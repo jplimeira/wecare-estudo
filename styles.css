@@ -30,7 +30,7 @@ header {
     width: 130px;
     height: 41px;
     font-size: 24px;
-    font-weight: 600px;
+    font-weight: 600;
     line-height: 29px;
     border-radius: 20.5px;
     border: none;
@@ -101,7 +101,7 @@ h1 {
 }
 
 .button-main:hover{
-    opacity: 0.;
+    opacity: 0.7;
 }
 
 .button-main:active {
